@@ -1,0 +1,10 @@
+kafka-python
+pyspark==3.5.0
+kafka-python
+psycopg2-binary
+pandas
+streamlit
+plotly
+confluent-kafka
+sqlalchemy
+setuptools
